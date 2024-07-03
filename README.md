@@ -35,14 +35,14 @@ Make sure you have the following installed on your system:
    #database credentials
    replace with you credentials
 
-#start the backend server  
-(from the root of the project)
-node index.js
+   #start the backend server  
+   (from the root of the project)
+   node index.js
 
-#start front endd
-(from root)
-npm run dev
-npm run dev -- --host  (to host local server)
+   #start front endd
+   (from root)
+   npm run dev
+   npm run dev -- --host  (to host local server)
 
 
    
