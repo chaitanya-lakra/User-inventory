@@ -14,7 +14,7 @@ Make sure you have the following installed on your system:
 
 - Node.js
 - npm (Node Package Manager)
-- MySQL
+- MySQL (I have used xamm)
 
 ### Installation
 
