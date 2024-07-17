@@ -2,7 +2,7 @@
 
 # User-inventory
 
-Welcome to my Vite (for React) and MySQL project! This project serves as a template for building full-stack web applications using these technologies.
+Welcome to my Vite (for React) and MySQL project! This is an user inventory  in which you can manage users profile in real time.
 
 ## Getting Started
 
